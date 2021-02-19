@@ -100,7 +100,6 @@ const routes = [{
 
 const router = new VueRouter({
   routes,
-  mode: 'history'
 });
 
 let isAddRoutes = false
