@@ -1,0 +1,13 @@
+.subnav {
+  position: fixed;
+  top: 0;
+  left: 0;
+  height: 100vh;
+}
+.subnav .ant-menu {
+  width: 180px;
+  height: 100%;
+}
+.subnav .ant-menu.ant-menu-inline-collapsed {
+  width: 80px;
+}
